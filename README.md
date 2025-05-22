@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect.
 
 # h1 Heading
 ## h2 Heading
