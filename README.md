@@ -1,5 +1,3 @@
-remote_theme: pages-themes/architect@v0.2.0
-
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
